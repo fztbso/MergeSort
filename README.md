@@ -19,5 +19,7 @@ Big-O gösterimini yazınız.
 [8,11,12,16,21,22]
 
 2^x=n
+
 =logn
-O(nlogn)
+
+---> O(nlogn)
